@@ -1,2 +1,3 @@
 # project0
-test project
+
+Test candidate parametreization against world data for pion electroproduction
